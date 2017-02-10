@@ -1,0 +1,38 @@
+{
+  "name": "rwd-handler",
+  "version": "1.0.0",
+  "description": "Handling responsive website behavior.",
+  "main": "dist/RwdHandler.min.js",
+  "scripts": {
+    "lint": "eslint src",
+    "build": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsiao19/RwdHandler.git"
+  },
+  "keywords": [
+    "rwd",
+    "rwd-behavior",
+    "rwd-handler",
+    "responsive",
+    "responsive-behavior",
+    "responsive-handler"
+  ],
+  "author": "Yu-Tung, Hsiao <yutunghsiao19@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hsiao19/RwdHandler/issues"
+  },
+  "homepage": "https://github.com/hsiao19/RwdHandler#readme",
+  "devDependencies": {
+    "babel-cli": "^6.22.2",
+    "babel-eslint": "^7.1.1",
+    "babel-preset-es2015": "^6.22.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.4.1",
+    "gulp-uglify": "^2.0.1"
+  }
+}

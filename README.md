@@ -17,7 +17,7 @@ or via [npm](https://www.npmjs.com/package/rwd-handler):
 ### Setup
 
 ~~~html
-<script src='path/to/rwd-handler.min.js'></script>
+<script src='path/to/RwdHandler.min.js'></script>
 ~~~
 
 or

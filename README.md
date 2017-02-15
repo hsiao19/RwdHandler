@@ -40,6 +40,8 @@ The function going to execute under given screen width.
 * __rollback__: _function_  
 The function for returning behavior to previous state.
 
+**NOTE:** If rollback function is given and an event listener is added in behavior, the event should call off() in rollback function. e.g. $(element).off('event'), or call off() before bind the event in behavior. e.g. $(element).off('event').on('event', fn).
+
 ~~~javascript
 const rwdHandler = new RwdHandler({
     minWidth: 480,

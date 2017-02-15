@@ -1,9 +1,9 @@
 /*!
- * RwdBehaviorSetter - v1.0.0 2017-01-07
- * https://github.com/hsiao19/RwdBehaviorSetter
+ * RwdHandler - v1.0.0 2017-01-07
+ * https://github.com/hsiao19/RwdHandler
  * 
  * Copyright (c) 2017 Yu-Tung, Hsiao
- * Licensed MIT <https://github.com/hsiao19/RwdBehaviorSetter/blob/master/LICENSE>
+ * Licensed MIT <https://github.com/hsiao19/RwdHandler/blob/master/LICENSE>
  */
 
 /**

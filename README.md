@@ -13,6 +13,10 @@ or via [npm](https://www.npmjs.com/package/rwd-handler):
 ~~~bash
 # npm install --save rwd-handler
 ~~~
+or
+~~~bash
+$ yarn add typewriting
+~~~
 
 ### Setup
 

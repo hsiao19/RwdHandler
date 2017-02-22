@@ -15,7 +15,7 @@ or via [npm](https://www.npmjs.com/package/rwd-handler):
 ~~~
 or
 ~~~bash
-$ yarn add typewriting
+$ yarn add rwd-handler
 ~~~
 
 ### Setup

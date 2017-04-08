@@ -1,6 +1,6 @@
 {
   "name": "rwd-handler",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Handling responsive website behavior.",
   "main": "dist/RwdHandler.min.js",
   "scripts": {

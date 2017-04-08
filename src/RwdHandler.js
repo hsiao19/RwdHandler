@@ -175,7 +175,7 @@
                 this.doneBehavior = true;           
             }
             else {
-                if (this.config.doneBehavior) {
+                if (this.doneBehavior) {
                     if (this.config.rollback) {
                         this.config.rollback();
                         this.doneBehavior = false;
